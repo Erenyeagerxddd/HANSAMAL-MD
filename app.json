@@ -1,26 +1,26 @@
 {
-  "name": "whatsapp-bot (HANSAMAL-MD)",
+  "name": "whatsapp-bot (MIKASA-MD)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/cobrs11/HANSAMAL-MD",
+  "repository": "",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "Imalka-MD&rjyfe3Xf"
     },
     "MODE": {
       "description": "mode public or self",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "AUTO_STATUS_SEEN": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
